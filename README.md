@@ -1,4 +1,5 @@
-# Github and git confilct
+
+# Github and Git
 # CSC4110-assignment1
 
 ### *Name: Adwait Wadekar*
